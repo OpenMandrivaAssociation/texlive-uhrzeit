@@ -1,6 +1,6 @@
 Name:		texlive-uhrzeit
 Version:	39570
-Release:	1
+Release:	2
 Summary:	Time printing, in German
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uhrzeit
